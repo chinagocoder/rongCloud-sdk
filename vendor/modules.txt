@@ -1,0 +1,9 @@
+# github.com/astaxie/beego v1.12.3
+## explicit; go 1.13
+github.com/astaxie/beego/httplib
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# gopkg.in/yaml.v2 v2.2.8
+## explicit
+gopkg.in/yaml.v2
