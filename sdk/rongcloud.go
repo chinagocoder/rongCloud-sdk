@@ -57,13 +57,13 @@ const (
 	// RONGCLOUDSMSURI 融云默认 SMS API 地址
 	RONGCLOUDSMSURI = "http://api.sms.ronghub.com"
 	// RONGCLOUDURI 融云默认 API 地址
-	RONGCLOUDURI = "http://api-cn.ronghub.com"
+	RONGCLOUDURI = "http://api.rong-api.com"
 	// RONGCLOUDURI2 融云备用 API 地址
-	RONGCLOUDURI2 = "http://api2-cn.ronghub.com"
+	RONGCLOUDURI2 = "http://api-b.rong-api.com"
 	// ReqType body类型
 	ReqType = "json"
 	// USERAGENT sdk 名称
-	USERAGENT = "rc-go-sdk/3.2.19"
+	USERAGENT = "rc-go-sdk/3.2.23"
 	// DEFAULTTIMEOUT 默认超时时间，10秒
 	DEFAULTTIMEOUT = 10
 	// DEFAULT_KEEPALIVE http 默认保活时间，30秒
